@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahyorrr
-- 👀 I’m interested in being a full stack developer 
-- 🌱 I’m currently learning Python 🐍
+- 👀 I’m a python developer 
+- 🌱 Data Science & Machine Learning🐍
 - 📫 How to reach me: ayomarquis@gmail.com 
 
 <!---
